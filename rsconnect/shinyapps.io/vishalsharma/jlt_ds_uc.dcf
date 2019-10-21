@@ -1,0 +1,12 @@
+name: jlt_ds_uc
+title:
+username:
+account: vishalsharma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1354436
+bundleId: 2521785
+url: https://vishalsharma.shinyapps.io/jlt_ds_uc/
+when: 1571676842.45964
+asMultiple: FALSE
+asStatic: FALSE
